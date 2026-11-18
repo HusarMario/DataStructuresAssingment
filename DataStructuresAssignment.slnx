@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DataStructuresAssignment.PointOfInterestManagerUI/DataStructuresAssignment.PointOfInterestManagerUI.csproj" Id="65616077-1f42-44b4-aad3-5269daa5eb39" />
+  <Project Path="DataStructuresAssignment.PointsOfInterestManager/DataStructuresAssignment.PointsOfInterestManager.csproj" Id="7f2fbfad-ac44-471b-be6d-10a2415a3d5e" />
+  <Project Path="DataStructuresAssignment.Tester/DataStructuresAssignment.Tester.csproj" Id="22d65382-52eb-4a91-a9b9-d35236a30669" />
+  <Project Path="DataStructuresAssignment.Tests/DataStructuresAssignment.Tests.csproj" Id="ee738501-96a0-4576-8c2a-3230162b0217" />
+  <Project Path="DataStructuresAssignment/DataStructuresAssignment.csproj" />
+</Solution>
